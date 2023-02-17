@@ -22,4 +22,4 @@ https://trello.com/b/fjtRsSmY/liftoff
 
 Include a link to your project on GitHub.
 
-https://github.com/cadillon1/team-hyunsu-group-repo
+https://github.com/Jan-23-Liftoff-KC/team-hyunsu-group-repo
